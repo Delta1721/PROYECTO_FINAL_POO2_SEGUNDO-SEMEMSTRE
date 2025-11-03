@@ -1,0 +1,14 @@
+C:\Users\DELTA\Desktop\SimuladorBanco\bin\Debug\net9.0\SimuladorBanco.exe
+C:\Users\DELTA\Desktop\SimuladorBanco\bin\Debug\net9.0\SimuladorBanco.deps.json
+C:\Users\DELTA\Desktop\SimuladorBanco\bin\Debug\net9.0\SimuladorBanco.runtimeconfig.json
+C:\Users\DELTA\Desktop\SimuladorBanco\bin\Debug\net9.0\SimuladorBanco.dll
+C:\Users\DELTA\Desktop\SimuladorBanco\bin\Debug\net9.0\SimuladorBanco.pdb
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.AssemblyInfoInputs.cache
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.AssemblyInfo.cs
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.dll
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\refint\SimuladorBanco.dll
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.pdb
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\SimuladorBanco.genruntimeconfig.cache
+C:\Users\DELTA\Desktop\SimuladorBanco\obj\Debug\net9.0\ref\SimuladorBanco.dll
